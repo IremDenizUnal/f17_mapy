@@ -1,5 +1,5 @@
 name: mapy
-description: A new Flutter project.
+description: A new Bootcamp Flutter project from F17 Team.
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
@@ -39,6 +39,10 @@ dependencies:
   flutter_svg: ^2.0.5
   flutter_polyline_points: ^1.0.0
   location: ^5.0.0
+  flutter_launcher_icons: ^0.13.1
+
+
+
 
 dev_dependencies:
   flutter_test:
@@ -61,6 +65,12 @@ flutter:
   # included with your application, so that you can use the icons in
   # the material Icons class.
   uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/icons/
+
+
+
 
   # To add assets to your application, add an assets section, like this:
   # assets:
