@@ -45,6 +45,10 @@ class OrderTrackingPageState extends State<OrderTrackingPage> {
     }
   }
 
+  void _goBack() {
+    Navigator.pop(context);
+  }
+
   @override
   void initState(){
     getCurrentLocation();
@@ -58,6 +62,10 @@ class OrderTrackingPageState extends State<OrderTrackingPage> {
           title: const Text(
             "Yol Haritam",
             style: TextStyle(color: Colors.black, fontSize: 16),
+          ),
+          leading: IconButton(
+            icon: Icon(Icons.arrow_back),
+            onPressed: _goBack,
           ),
         ),
         body: currentLocation== null
