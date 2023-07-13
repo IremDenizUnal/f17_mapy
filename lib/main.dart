@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:mapy/order_tracking_page.dart';
+import 'package:mapy/home_page.dart';
 
 
 void main() {
@@ -18,11 +19,11 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
         appBarTheme: const AppBarTheme(
-          backgroundColor: Colors.white,
-          elevation: 0,
+          backgroundColor: Colors.blue,
+          elevation: 2,
         ),
       ),
-      home: const OrderTrackingPage(),
+      home: HomePage(),
     );
   }
 }
