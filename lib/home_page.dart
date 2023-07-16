@@ -6,6 +6,9 @@ import 'package:mapy/order_tracking_page.dart';
 
 
 
+
+
+
 class HomePage extends StatefulWidget {
   @override
   _HomePageState createState() => _HomePageState();
@@ -196,6 +199,28 @@ class _AnaSayfaState extends State<AnaSayfa> {
 }
 
 
+
+class Haritalar extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      debugShowCheckedModeBanner: false,
+      home: Scaffold(
+
+        body: Center(
+          child: Image.asset(
+            'assets/images/harita.jpg',
+            fit: BoxFit.cover,
+          ),
+        ),
+      ),
+    );
+  }
+}
+
+
+
+
 /*class Haritalar extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
@@ -207,7 +232,7 @@ class _AnaSayfaState extends State<AnaSayfa> {
   }
 }
 */
-class Haritalar extends StatelessWidget {
+/*class Haritalar extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return FutureBuilder(
@@ -230,7 +255,7 @@ class Haritalar extends StatelessWidget {
     );
   }
 }
-
+*/
 
 class Profil extends StatelessWidget {
   @override
@@ -292,13 +317,14 @@ class Profil extends StatelessWidget {
               color: Colors.grey[300],
               borderRadius: BorderRadius.circular(20),
             ),
-            child: Center(
-              child: Text(
-                'Sürücü Karekod Bilgisi',
-                style: TextStyle(fontSize: 16),
+            child:  Center(
+              child: Image.asset(
+                'assets/images/qr.png',
+                fit: BoxFit.cover,
               ),
             ),
           ),
+
           SizedBox(height: 30),
           Text(
             'Kişisel Bilgiler',
@@ -324,3 +350,5 @@ class Profil extends StatelessWidget {
     );
   }
 }
+
+
