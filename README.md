@@ -181,6 +181,44 @@ Sprint boyunca uygulamanın arayüz tasarımı ve kodlamasına ağırlık verilm
 
 
 
+
+## Sprint3
+## Sprint notları:
+
+## Sprint içinde tamamlanması gereken puan:
+
+## Puan tamamlama mantığı: 
+3 Sprint için toplamda 380 puanlık Backlog olması kararlaştırılmıştır. Üçüncü Sprint için ................ Puan olarak hesaplanmıştır.
+
+## Backlog düzeni ve Story seçimleri: 
+Backlog, planlanan ilerleme düzenine göre düzenlenmiştir. Story zorluklarına göre 10 ile 50 puan arasında puanlandırmalar yapılmıştır. Bu puanlamalar sonucunda sprint'lerin toplam puanı 380 olarak belirlenmiştir. İlk sprint için fonksiyonel özelliklere fazla girilmediğinden 120 puana ulaşmak hedeflenmiştir.
+
+Story'ler yapılacak işlere bölünmüştür. Miro Board'da gözüken kırmızı kartlar yapılacak işleri gösterirken, mavi kartlar story'leri temsil etmektedir.
+
+## Daily Scrum: 
+Daily Scrum toplantıları, ihitiyaca uygun olarak WhatsApp üzerinden gerçekleşmektedir. Toplantılarla ilgili görseller Readme dosyası içinde paylaşılmaktadır: 
+
+## Sprint Board Update: 
+Sprint Board Ekran Görüntüleri
+
+## Ürün Durumu: 
+Ürünün güncel ekran görüntüleri
+
+## Sprint Review: ............................................................................................. 
+## Sprint Review katılımcıları: 
+- Hakkı Mert Dirgar: Product Owner / Developer
+- Aslı Deniz Ürersoy: Scrum Master/Developer
+- Sinem Taşkın: Developer
+- Selenay Akbaba: Developer
+- Irem Deniz Ünal: Developer
+
+## Sprint Retrospective:
+
+Teşekkür edildi. 
+
+## Diğer Notlar:
+
+
 ---
 
 ## Product Backlog URL
