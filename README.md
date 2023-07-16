@@ -193,10 +193,10 @@ Otomotiv firmaları ürün ve uygulamayı satın alarak kendi ürettikleri araç
 Kullanıcı uygulama ve ürünü satın alarak aracına entegre eder. Böylece trafikte sürekli navigasyona bakma durumu ortadan kalkmış olur.
 
 ## Ürün Özellikleri
--Google Maps ile entegre edilmiş harita sayesinde araç içerisinde kullanılan ürüne navigasyon bilgilerinin iletilmesi.
--Flutter'dan verilen komutlar ile ürünün sağa veya sola dönüleceğini anlaması.
--Sinyal koluna üründen uyarı gitmesi.
--Arabanın otomatik olarak sağa veya sola sinyal vermesi.
+Google Maps ile entegre edilmiş harita sayesinde araç içerisinde kullanılan ürüne navigasyon bilgilerinin iletilmesi.
+Flutter'dan verilen komutlar ile ürünün sağa veya sola dönüleceğini anlaması.
+Sinyal koluna üründen uyarı gitmesi.
+Arabanın otomatik olarak sağa veya sola sinyal vermesi.
 
 ## Hedef Kitle
 Otomotiv firmaları Araç sahibi kullanıcılar
