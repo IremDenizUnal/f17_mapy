@@ -234,7 +234,7 @@ Sprint Review: Alınan kararlar: Projede  tamamlanamayan ve ileride devam edileb
 
 ## Sprint Retrospective:
 
-Takım üyelerinin gelecek projelerde daha fazla aktif olması gerektiğine vurgu yapılmıştır. Projede yer alan herkese teşekkür edildi.
+Takım üyelerinin gelecek projelerde daha fazla aktif olması gerektiğine vurgu yapılmıştır. Projede yer alan herkese teşekkür edilmiştir.
 
 ## Diğer Notlar:
 
