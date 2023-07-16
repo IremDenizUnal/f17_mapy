@@ -220,6 +220,11 @@ Sprint Board Ekran Görüntüleri
 ## Ürün Durumu: 
 Ürünün güncel ekran görüntüleri
 ![WhatsApp Image 2023-07-10 at 13 19 53 (1)](https://github.com/IremDenizUnal/f17_mapy/assets/51324032/69a3d40e-79de-4d59-936b-4f3454731e6d)
+<img width="1280" alt="Ekran Resmi 2023-07-16 22 05 11" src="https://github.com/IremDenizUnal/f17_mapy/assets/120518425/1abea103-710e-448d-9caa-bbf173288d68">
+<img width="1280" alt="Ekran Resmi 2023-07-16 22 24 13" src="https://github.com/IremDenizUnal/f17_mapy/assets/120518425/08b5f95a-4e45-48b1-91f6-9a8a139cb7b4">
+
+
+
 
 
 ## Sprint Review:
