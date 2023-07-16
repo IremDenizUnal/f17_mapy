@@ -183,7 +183,23 @@ Sprint boyunca uygulamanın arayüz tasarımı ve kodlamasına ağırlık verilm
 
 
 ## Sprint3
-## Sprint notları:
+## Ürün Açıklaması
+Mapy, Google Maps ile entegre çalışan ve trafikteki kaza problemini azaltmayı amaçlayan uygulamadır. Uygulama ile çalışan ürün sayesinde sağa veya sola dönüşlerde arabanın sinyal kolları uyarılır ve otomatik olarak sinyal verilmiş olur. Uygulama, navigasyona sürekli bakıldığında gerçekleşen yol karışıklıklarının ve kazaların önüne geçmeyi amaçlamaktadır.
+
+## Uygulama birincil fonksiyonu:
+Otomotiv firmaları ürün ve uygulamayı satın alarak kendi ürettikleri araçlara entegre ederler. Böylece oluşabilecek kazaların önüne geçilir.
+
+## Uygulama ikincil fonksiyonu:
+Kullanıcı uygulama ve ürünü satın alarak aracına entegre eder. Böylece trafikte sürekli navigasyona bakma durumu ortadan kalkmış olur.
+
+## Ürün Özellikleri
+Google Maps ile entegre edilmiş harita sayesinde araç içerisinde kullanılan ürüne navigasyon bilgilerinin iletilmesi.
+Flutter'dan verilen komutlar ile ürünün sağa veya sola dönüleceğini anlaması.
+Sinyal koluna üründen uyarı gitmesi.
+Arabanın otomatik olarak sağa veya sola sinyal vermesi.
+
+## Hedef Kitle
+Otomotiv firmaları Araç sahibi kullanıcılar
 
 ## Sprint içinde tamamlanması gereken puan:
 
@@ -206,7 +222,9 @@ Sprint Board Ekran Görüntüleri
 ![WhatsApp Image 2023-07-10 at 13 19 53 (1)](https://github.com/IremDenizUnal/f17_mapy/assets/51324032/69a3d40e-79de-4d59-936b-4f3454731e6d)
 
 
-## Sprint Review: ............................................................................................. 
+## Sprint Review:
+Sprint Review: Alınan kararlar: Projede  tamamlanamayan ve ileride devam edilebilecek sayfalar değerlendirilmiştir.
+
 ## Sprint Review katılımcıları: 
 - Hakkı Mert Dirgar: Product Owner / Developer
 - Aslı Deniz Ürersoy: Scrum Master/Developer
@@ -216,7 +234,7 @@ Sprint Board Ekran Görüntüleri
 
 ## Sprint Retrospective:
 
-Teşekkür edildi. 
+Takım üyelerinin gelecek projelerde daha fazla aktif olması gerektiğine vurgu yapılmıştır. Projede yer alan herkese teşekkür edildi.
 
 ## Diğer Notlar:
 
