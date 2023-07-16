@@ -245,7 +245,7 @@ class Profil extends StatelessWidget {
               mainAxisAlignment: MainAxisAlignment.spaceBetween,
               children:[ CircleAvatar(
                 radius: 30,
-                backgroundImage: AssetImage('assets/profile_image.png'),
+                backgroundImage: AssetImage('assets/images/profile_image.png'),
               ),
 
                 Text(
