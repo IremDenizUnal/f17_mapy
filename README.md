@@ -233,7 +233,12 @@ Sprint Board Ekran Görüntüleri
 
 
 
-https://github.com/IremDenizUnal/f17_mapy/assets/123075895/6750c66c-a753-45e7-8982-86bda0164ad7
+
+
+https://github.com/IremDenizUnal/f17_mapy/assets/123075895/43e6017c-233f-4b5b-958f-02c779e4ae8a
+
+
+
 
 
 
