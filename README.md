@@ -220,18 +220,19 @@ Sprint Board Ekran Görüntüleri
 ![Ekran Resmi 2023-07-17 04 31 47](https://github.com/IremDenizUnal/f17_mapy/assets/51324032/feaafe25-fca7-4801-8375-75bb9a33c2cf)
 
 
-## Ürün Durumu: 
-Ürünün güncel ekran görüntüleri
+## Ürün Durumu
+## Ürün Logosu:
 ![WhatsApp Image 2023-07-17 at 08 35 29](https://github.com/IremDenizUnal/f17_mapy/assets/123075895/2588e318-9877-4050-a05e-debb6081b4ae)
+
+## Ürünün güncel ekran görüntüleri
 <img width="1280" alt="Ekran Resmi 2023-07-16 22 05 11" src="https://github.com/IremDenizUnal/f17_mapy/assets/120518425/1abea103-710e-448d-9caa-bbf173288d68">
 <img width="1280" alt="Ekran Resmi 2023-07-16 22 24 13" src="https://github.com/IremDenizUnal/f17_mapy/assets/120518425/08b5f95a-4e45-48b1-91f6-9a8a139cb7b4">
-
-
+![WhatsApp Image 2023-07-17 at 08 35 29](https://github.com/IremDenizUnal/f17_mapy/assets/123075895/3be382ca-79e7-47b4-90b0-a4643a42ba81)
 
 
 
 ## Sprint Review:
-Sprint Review: Alınan kararlar: Projede  tamamlanamayan ve ileride devam edilebilecek sayfalar değerlendirilmiştir.
+Sprint Review: Alınan kararlar: Projede  tamamlanamayan ve ileride devam edilebilecek sayfalar değerlendirilmiştir.Bu sayfaların Bootcamp bitiminde backend girişleri yapılması kararı alınmıştır.
 
 ## Sprint Review katılımcıları: 
 - Hakkı Mert Dirgar: Product Owner / Developer
@@ -242,7 +243,7 @@ Sprint Review: Alınan kararlar: Projede  tamamlanamayan ve ileride devam edileb
 
 ## Sprint Retrospective:
 
-Takım üyelerinin gelecek projelerde daha fazla aktif olması gerektiğine vurgu yapılmıştır. Projede yer alan herkese teşekkür edilmiştir.
+Takım üyelerinin gelecek projelerde takım olarak daha fazla aktif olunması gerektiğine vurgu yapılmıştır. Projede yer alan herkese teşekkür edilmiştir.18.07.2023 tarihi ile Bootcamp sona erdiği için proje kapanmıştır.
 
 ## Diğer Notlar:
 
