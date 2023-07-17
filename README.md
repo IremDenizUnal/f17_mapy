@@ -1,4 +1,4 @@
-# **Takım İsmi**
+![WhatsApp Image 2023-07-16 at 21 49 53](https://github.com/IremDenizUnal/f17_mapy/assets/51324032/71759ff0-898a-464c-bcdf-513435165971)# **Takım İsmi**
 
 Takım Flutter 17
 
@@ -213,6 +213,8 @@ Story'ler yapılacak işlere bölünmüştür. Miro Board'da gözüken kırmız�
 
 ## Daily Scrum: 
 Daily Scrum toplantıları, ihitiyaca uygun olarak WhatsApp üzerinden gerçekleşmektedir. Toplantılarla ilgili görseller Readme dosyası içinde paylaşılmaktadır: 
+
+![WhatsApp Image 2023-07-16 at 21 49 53](https://github.com/IremDenizUnal/f17_mapy/assets/51324032/ac3c1508-750a-49c5-9206-37dd45d65667)
 
 ## Sprint Board Update: 
 Sprint Board Ekran Görüntüleri
