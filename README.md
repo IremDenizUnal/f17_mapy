@@ -227,6 +227,12 @@ Sprint Board Ekran Görüntüleri
 ## Ürünün güncel ekran görüntüleri
 <img width="1280" alt="Ekran Resmi 2023-07-16 22 05 11" src="https://github.com/IremDenizUnal/f17_mapy/assets/120518425/1abea103-710e-448d-9caa-bbf173288d68">
 <img width="1280" alt="Ekran Resmi 2023-07-16 22 24 13" src="https://github.com/IremDenizUnal/f17_mapy/assets/120518425/08b5f95a-4e45-48b1-91f6-9a8a139cb7b4">
+
+
+
+
+
+
 https://github.com/IremDenizUnal/f17_mapy/assets/123075895/6750c66c-a753-45e7-8982-86bda0164ad7
 
 
