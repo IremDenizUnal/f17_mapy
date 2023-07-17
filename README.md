@@ -183,6 +183,9 @@ Sprint boyunca uygulamanın arayüz tasarımı ve kodlamasına ağırlık verilm
 
 
 ## Sprint3
+## Sprint Notları:
+Product Owner Hakkı Mert Dirgar, Scrum Master ve geliştirici Aslı Deniz Ürersoy, geliştiriciler Sinem Taşkın, Selenay Akbaba ve Irem Deniz Ünal katıldı.
+Tamamlanan öğeler arasında, kullanıcı hesaplarının oluşturulması ve giriş yapılması, ana sayfa tasarımı ve ürün listeleme sayfasının yapısı yer alıyor.
 ## Ürün Açıklaması
 Mapy, Google Maps ile entegre çalışan ve trafikteki kaza problemini azaltmayı amaçlayan uygulamadır. Uygulama ile çalışan ürün sayesinde sağa veya sola dönüşlerde arabanın sinyal kolları uyarılır ve otomatik olarak sinyal verilmiş olur. Uygulama, navigasyona sürekli bakıldığında gerçekleşen yol karışıklıklarının ve kazaların önüne geçmeyi amaçlamaktadır.
 
