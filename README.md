@@ -133,8 +133,8 @@ Kullanıcı uygulama ve ürünü satın alarak aracına entegre eder. Böylece t
 - Arabanın otomatik olarak sağa veya sola sinyal vermesi.
 
 ## Hedef Kitle
-Otomotiv firmaları
-Araç sahibi kullanıcılar
+- Otomotiv firmaları
+- Araç sahibi kullanıcılar
 
 ## Jüriye not:
 İlk sprint sonrası uygulama fikri değiştirilmiş ve yeni fikir üzerinden ilerlenmiştir.
