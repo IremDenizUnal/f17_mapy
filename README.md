@@ -204,7 +204,7 @@ Otomotiv firmaları ve araç sahibi kullanıcılar
 ## Sprint içinde tamamlanması gereken puan:
 
 ## Puan tamamlama mantığı: 
-3 Sprint için toplamda 380 puanlık Backlog olması kararlaştırılmıştır. Üçüncü Sprint için ................ Puan olarak hesaplanmıştır.
+3 Sprint için toplamda 380 puanlık Backlog olması kararlaştırılmıştır. Üçüncü Sprint için 120 Puan olarak hesaplanmıştır.
 
 ## Backlog düzeni ve Story seçimleri: 
 Backlog, planlanan ilerleme düzenine göre düzenlenmiştir. Story zorluklarına göre 10 ile 50 puan arasında puanlandırmalar yapılmıştır. Bu puanlamalar sonucunda sprint'lerin toplam puanı 380 olarak belirlenmiştir. İlk sprint için fonksiyonel özelliklere fazla girilmediğinden 120 puana ulaşmak hedeflenmiştir.
