@@ -199,7 +199,7 @@ Sinyal koluna üründen uyarı gitmesi.
 Arabanın otomatik olarak sağa veya sola sinyal vermesi.
 
 ## Hedef Kitle
-Otomotiv firmaları Araç sahibi kullanıcılar
+Otomotiv firmaları ve araç sahibi kullanıcılar
 
 ## Sprint içinde tamamlanması gereken puan:
 
