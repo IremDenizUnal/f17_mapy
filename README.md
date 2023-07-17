@@ -219,6 +219,7 @@ Sprint Board Ekran Görüntüleri
 
 ![image](https://github.com/IremDenizUnal/f17_mapy/assets/123979121/580f04f0-62f9-4906-94db-fc6892684f9a)
 
+![image](https://github.com/IremDenizUnal/f17_mapy/assets/123979121/860b8b0a-10d7-4748-ba10-a1be954094e8)
 
 
 ## Ürün Durumu
