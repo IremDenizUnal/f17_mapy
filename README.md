@@ -1,4 +1,4 @@
-![WhatsApp Image 2023-07-16 at 21 49 53](https://github.com/IremDenizUnal/f17_mapy/assets/51324032/71759ff0-898a-464c-bcdf-513435165971)# **Takım İsmi**
+# **Takım İsmi**
 
 Takım Flutter 17
 
