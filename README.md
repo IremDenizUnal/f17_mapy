@@ -217,7 +217,8 @@ Daily Scrum toplantıları, ihitiyaca uygun olarak WhatsApp üzerinden gerçekle
 ## Sprint Board Update: 
 Sprint Board Ekran Görüntüleri
 
-![Ekran Resmi 2023-07-17 04 31 47](https://github.com/IremDenizUnal/f17_mapy/assets/51324032/feaafe25-fca7-4801-8375-75bb9a33c2cf)
+![image](https://github.com/IremDenizUnal/f17_mapy/assets/123979121/580f04f0-62f9-4906-94db-fc6892684f9a)
+
 
 
 ## Ürün Durumu
