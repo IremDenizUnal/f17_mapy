@@ -205,7 +205,7 @@ Arabanın otomatik olarak sağa veya sola sinyal vermesi.
 Otomotiv firmaları ve araç sahibi kullanıcılar
 
 ## Sprint içinde tamamlanması gereken puan:
-
+120 Puan
 ## Puan tamamlama mantığı: 
 3 Sprint için toplamda 380 puanlık Backlog olması kararlaştırılmıştır. Üçüncü Sprint için 120 Puan olarak hesaplanmıştır.
 
